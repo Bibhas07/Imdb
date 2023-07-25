@@ -48,8 +48,5 @@ License
 This project is licensed under the MIT License, which means you can use, modify, and distribute it freely. See the LICENSE file for more details.
 
 
-Contact
-If you have any questions or suggestions regarding this project, feel free to contact us at your_email@example.com. We'd love to hear from you!
-
 
 Happy movie searching! 🍿
